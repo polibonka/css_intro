@@ -1,0 +1,16 @@
+h1 {
+  color: plum;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  color: palevioletred;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+}
+
+a {
+  color: pink;
+  font-size: 20px;
+}
